@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T18:39:06.116Z",
+  "generated_at": "2026-11-18T16:53:47.470Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -182,6 +182,19 @@
       "last_pushed_at": "2026-11-17T18:39:06.428Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-11-18T16:53:46.652Z",
+      "last_pushed_at": "2026-11-18T16:53:46.652Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
